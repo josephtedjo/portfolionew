@@ -1,4 +1,4 @@
-import reelsVideo from './assets/VideoWowAllCity14.mp4'
+import reelsVideo from './assets/VideoWowAllCity14Reels.mp4'
 import reelsVideo2 from './assets/VideoLycan.mp4'
 import reelsVideo3 from './assets/VideoLoxusCuciSepatu.mp4'
 import reelsVideo4 from './assets/videoRigorerAR3.mp4'
