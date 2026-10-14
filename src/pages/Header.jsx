@@ -54,7 +54,7 @@ export default function Header() {
 
                 {/* Right CTA and Mobile Hamburger Button */}
                 <div className="flex items-center gap-3">
-                    <CustomButton className="hidden sm:inline-flex items-center justify-center bg-gradient-to-r from-blue-600 to-orange-500 text-white text-sm sm:text-base px-3.5 py-1.5 sm:px-4 sm:py-2 rounded-lg hover:shadow-lg hover:shadow-orange-500/20 transition-all duration-300 ease-in-out hover:scale-105 cursor-pointer font-medium" href="mailto:josephtedjorahardjo@gmail.com"> 📧 Contact Me
+                    <CustomButton className="hidden sm:inline-flex items-center justify-center bg-gradient-to-r from-blue-600 to-orange-500 text-white text-sm sm:text-base px-3.5 py-1.5 sm:px-4 sm:py-2 rounded-lg hover:shadow-lg hover:shadow-orange-500/20 transition-all duration-300 ease-in-out hover:scale-105 cursor-pointer font-medium" href="https://mail.google.com/mail/?view=cm&fs=1&to=josephtedjorahardjo@gmail.com"> 📧 Contact Me
                     </CustomButton>
 
                     {/* Mobile Hamburger Toggle Button */}
