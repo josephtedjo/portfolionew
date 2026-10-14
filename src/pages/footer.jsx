@@ -14,7 +14,7 @@ export default function Footer() {
             </div>
 
             <div className="flex items-center gap-3">
-                <CustomButton className="bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-400 hover:to-teal-500 text-white hover:text-white text-sm sm:text-base px-6 py-2.5 rounded-xl font-medium transition-all duration-300 hover:scale-105 shadow-lg shadow-orange-500/20 active:scale-95 cursor-pointer" href="mailto:josephtedjorahardjo@gmail.com">
+                <CustomButton className="bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-400 hover:to-teal-500 text-white hover:text-white text-sm sm:text-base px-6 py-2.5 rounded-xl font-medium transition-all duration-300 hover:scale-105 shadow-lg shadow-orange-500/20 active:scale-95 cursor-pointer" href="https://mail.google.com/mail/?view=cm&fs=1&to=josephtedjorahardjo@gmail.com">
                     📧 Mail me right away!
                 </CustomButton>
             </div>
